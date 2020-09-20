@@ -1,9 +1,5 @@
-# vivek_codes
-PF
+# Vivek_Codes
+Official Portfolio of Famous Instagram Memer Vivek Codes:man_technologist:
 
-
-click here to view it.
-
-https://vivolscute.github.io/
-
-here is code for my website
+[Click here to view it](https://vivolscute.github.io/)
+This repository contains the code of the website.
