@@ -225,6 +225,18 @@ padding:0;
     max-width: 130%;
 }
 
+
+.blogCssTushar {
+  margin: 2rem 2.5rem 6rem 2.5rem;
+  padding: 1.5rem;
+  transition: .3s ease-in-out;
+}
+
+.blogCssTushar:hover {
+  transform: translate(1.01rem) scale(1.1);
+  box-shadow: 5px 5px 10px #222!important;
+}
+
 .downarrow{
     text-align: center;
     margin-top: 3rem;
